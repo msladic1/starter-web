@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Muris Sladić 	moj@mail.ba		twitter_hendl
 
 # THANKS
 
